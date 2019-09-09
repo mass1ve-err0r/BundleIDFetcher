@@ -43,7 +43,7 @@ System Application & external 3rd-party apps such as Emulators are excluded.
 ## How-To Install
 There's fortunately nothing you need to install, it's portable!
 
-1. Just grab the latest release from placeholder
+1. Just grab the latest release from [HERE](https://github.com/mass1ve-err0r/BundleIDFetcher/releases/tag/stable)
 2. Extract anywhere, preferably onto Desktop
 3. Run it & profit.
 
